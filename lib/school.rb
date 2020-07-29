@@ -17,8 +17,8 @@ attr_accessor :name, :roster
     @roster[grade]
   end
     
-  def sort(student, grade)
-    
+  def sort
+    self.roster.each do ||
   
 
   
